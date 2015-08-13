@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: fb1d0270212809d4bb61b019298df2ac
+timeCreated: 1439439882
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: atras
+    21300002: adelante
+    21300004: play
+    21300006: stop
+    21300008: cerrar
+    21300010: ayuda2
+    21300012: ayuda1
+    21300014: lentes
+    21300016: barraTrans
+    21300018: icono_Audio
+    21300020: icono_mapa
+    21300022: icono_3D
+    21300024: icono_libro
+    21300026: circuloBlanco
+    21300028: circuloNaranjo
+    21300030: CirculoNegro
+    21300032: circuloGrande
+    21300034: cuadroBlanco
+    21300036: iconoMail
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: atras
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 939
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adelante
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 939
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: play
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 940
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stop
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 940
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cerrar
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 940
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ayuda2
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 971
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ayuda1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 971
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lentes
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 956
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barraTrans
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 0
+        width: 77
+        height: 1024
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icono_Audio
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 768
+        width: 161
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icono_mapa
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 774
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icono_3D
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 774
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icono_libro
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 774
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: circuloBlanco
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 803
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: circuloNaranjo
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 839
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CirculoNegro
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 297
+        height: 298
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: circuloGrande
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 8
+        width: 594
+        height: 594
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cuadroBlanco
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 477
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconoMail
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 973
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
