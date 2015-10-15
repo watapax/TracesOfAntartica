@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: 2b55fe2315f68f94090fc1c3e0f2d8b9
+timeCreated: 1444757890
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: iconosHD-01_0
+    21300002: iconosHD-01_1
+    21300004: iconosHD-01_2
+    21300006: iconosHD-01_3
+    21300008: iconosHD-01_4
+    21300010: iconosHD-01_5
+    21300012: iconosHD-01_6
+    21300014: iconosHD-01_7
+    21300016: iconosHD-01_8
+    21300018: iconosHD-01_9
+    21300020: iconosHD-01_10
+    21300022: iconosHD-01_11
+    21300024: iconosHD-01_12
+    21300026: iconosHD-01_13
+    21300028: iconosHD-01_14
+    21300030: iconosHD-01_15
+    21300032: iconosHD-01_17
+    21300034: iconosHD-01_18
+    21300036: iconosHD-01_19
+    21300038: iconosHD-01_20
+    21300040: iconosHD-01_21
+    21300042: iconosHD-01_24
+    21300044: iconosHD-01_25
+    21300046: iconosHD-01_26
+    21300048: iconosHD-01_27
+    21300050: iconosHD-01_28
+    21300052: iconosHD-01_29
+    21300054: mascara
+    21300056: iconosHD-01_16
+    21300058: iconosHD-01_22
+    21300060: iconosHD-01_23
+    21300062: shack
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: iconosHD-01_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1877
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1877
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_2
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1877
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_3
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1877
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_4
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1877
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_5
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1877
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_6
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1874
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_7
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1890
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_8
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1808
+        width: 211
+        height: 212
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_9
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1838
+        width: 179
+        height: 179
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_10
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1857
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1686
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_12
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1692
+        width: 99
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1680
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_14
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1678
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_15
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1678
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_17
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1628
+        width: 143
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_18
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1627
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1476
+        width: 477
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_20
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1523
+        width: 137
+        height: 137
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_21
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1529
+        width: 65
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_24
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1513
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_25
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1528
+        width: 20
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_26
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1436
+        width: 143
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_27
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1436
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_28
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1321
+        width: 1090
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 694
+        width: 1548
+        height: 623
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mascara
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 20
+        width: 1582
+        height: 662
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_16
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1513
+        width: 114
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_22
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1455
+        width: 179
+        height: 226
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconosHD-01_23
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1373
+        width: 1084
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shack
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 792
+        width: 321
+        height: 398
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
